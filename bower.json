@@ -1,8 +1,11 @@
 {
   "name": "ol3",
-  "version": "3.2.1",
+  "version": "3.18.2",
+  "description": "OpenLayers 3",
   "main": [
-    "ol-debug.js",
+    "ol.js",
     "ol.css"
+  ],
+  "ignore": [
   ]
 }
